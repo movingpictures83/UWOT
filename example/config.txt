@@ -1,0 +1,2 @@
+Prefix plugins/UWOT/example/
+Plugin UWOT inputfile Waltman.rds outputfile UWOT.rds
